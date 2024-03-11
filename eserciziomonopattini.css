@@ -1,0 +1,112 @@
+/* background */
+
+body{
+ background-image: url(background.jpg);
+ background-size: cover;
+ margin-bottom: 5px;
+}
+
+
+.quadrato{
+  height: 800px;
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color:rgba(0, 0, 0, 0.6);
+  border-radius: 10px 10px 10px 10px;
+
+}
+
+
+
+  /* header */
+
+.logoimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
+
+
+h2{
+  text-align: center;
+  color:#39FF14;
+  
+}
+
+
+ /* nav */
+
+ .rettangolo{
+   text-align: center;
+   background-color:rgb(57, 255, 20);
+   height: 30px;
+   margin-left: 10%;
+   margin-right: 10%;
+  }
+
+  input[type=button]{
+  margin-top: 5px;
+  }
+  
+ /* main */
+
+
+ input[type=checkbox]{
+  margin-left: 10%;
+  margin-bottom: 0px;
+  width: 8px;
+  height: 8px;
+ }
+
+ span{
+  display: inline-block;
+  color: white;
+  margin-top: 5%;
+ 
+ }
+
+ div{
+  
+  display: block;
+  color: white;
+  margin-left: 10%;
+  
+ }
+
+.carica{
+  display: block;
+  width: 250px;
+  height: 20px;
+  background: #E8BA59;
+  margin-left: 10%;
+  margin-top: 5px;
+  border-radius: 5px 5px 5px 5px;
+  }
+
+.carica2{
+  display: block;
+  width: 450px;
+  height: 20px;
+  background:green;
+  margin-left: 10%;
+  margin-top: 5px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+
+.carica3{
+  display: block;
+  width: 100px;
+  height: 20px;
+  background:red;
+  margin-left: 10%;
+  margin-top: 5px;
+  border-radius: 5px 5px 5px 5px;
+  
+ }
+
+
+
+
